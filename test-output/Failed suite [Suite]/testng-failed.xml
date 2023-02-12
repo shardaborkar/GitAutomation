@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Submit order Test(failed)(failed)">
+    <classes>
+      <class name="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest">
+        <methods>
+          <include name="ordersVerification"/>
+          <include name="launchApp"/>
+          <include name="tearDown"/>
+          <include name="submitorder" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest -->
+    </classes>
+  </test> <!-- Submit order Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

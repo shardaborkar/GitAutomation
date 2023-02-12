@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-10T17:41:10 IST" name="Suite" finished-at="2023-02-10T17:43:14 IST" duration-ms="124160">
+    <groups>
+      <group name="purchaseOrder">
+        <method signature="SubmitOrderTest.submitorder(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" name="submitorder" class="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest"/>
+      </group> <!-- purchaseOrder -->
+      <group name="errorHandling">
+        <method signature="ErrorValidation.incorrectCredentials()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" name="incorrectCredentials" class="rahulshettyacademy.seleniumframeworkdesign.ErrorValidation"/>
+      </group> <!-- errorHandling -->
+    </groups>
+    <test started-at="2023-02-10T17:41:10 IST" name="Submit order Test" finished-at="2023-02-10T17:42:32 IST" duration-ms="82408">
+      <class name="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:41:13 IST" name="launchApp" finished-at="2023-02-10T17:41:28 IST" duration-ms="14940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="submitorder(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:41:28 IST" name="submitorder" data-provider="testData" finished-at="2023-02-10T17:41:48 IST" duration-ms="20553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qazplm@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Qazplm@890]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ZARA COAT 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitorder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:41:48 IST" name="tearDown" finished-at="2023-02-10T17:41:50 IST" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:41:50 IST" name="launchApp" finished-at="2023-02-10T17:41:59 IST" duration-ms="9429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="submitorder(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:41:59 IST" name="submitorder" data-provider="testData" finished-at="2023-02-10T17:42:21 IST" duration-ms="21602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcxyz92@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcxyz@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADIDAS ORIGINAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitorder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:42:21 IST" name="tearDown" finished-at="2023-02-10T17:42:22 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:42:22 IST" name="launchApp" finished-at="2023-02-10T17:42:29 IST" duration-ms="7296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="ordersVerification()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:42:29 IST" name="ordersVerification" finished-at="2023-02-10T17:42:32 IST" depends-on-methods="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest.submitorder" duration-ms="3169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordersVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest@2f62ea70]" started-at="2023-02-10T17:42:32 IST" name="tearDown" finished-at="2023-02-10T17:42:32 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest -->
+    </test> <!-- Submit order Test -->
+    <test started-at="2023-02-10T17:42:34 IST" name="Error validation Test" finished-at="2023-02-10T17:43:14 IST" duration-ms="40095">
+      <class name="rahulshettyacademy.seleniumframeworkdesign.ErrorValidation">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:34 IST" name="launchApp" finished-at="2023-02-10T17:42:44 IST" duration-ms="9737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="incorrectCredentials()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:44 IST" name="incorrectCredentials" finished-at="2023-02-10T17:42:45 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:45 IST" name="tearDown" finished-at="2023-02-10T17:42:45 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:45 IST" name="launchApp" finished-at="2023-02-10T17:42:52 IST" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="productError(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:52 IST" name="productError" data-provider="errorTestData" finished-at="2023-02-10T17:42:59 IST" duration-ms="7179" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qazplm@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Qazplm@890]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ZARA COAT 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:42:59 IST" name="tearDown" finished-at="2023-02-10T17:43:00 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:43:00 IST" name="launchApp" finished-at="2023-02-10T17:43:06 IST" duration-ms="6618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="productError(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:43:06 IST" name="productError" data-provider="errorTestData" finished-at="2023-02-10T17:43:14 IST" duration-ms="7544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcxyz92@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcxyz@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADIDAS ORIGINAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.seleniumframeworkdesign.ErrorValidation@4b1d6571]" started-at="2023-02-10T17:43:14 IST" name="tearDown" finished-at="2023-02-10T17:43:14 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.ErrorValidation -->
+    </test> <!-- Error validation Test -->
+  </suite> <!-- Suite -->
+</testng-results>
