@@ -43,7 +43,7 @@ public class BaseTest {
 		String browserName=System.getProperty("browser")!=null?System.getProperty("browser") :pro.getProperty("browser");
 		if(browserName.contains("chrome")){
 	    ChromeOptions options=new ChromeOptions();
-	    
+	    options.addArguments("--remote-allow-origins=*");
 		WebDriverManager.chromedriver().setup();
 		if(browserName.contains("headless")) {
 		options.addArguments("headless");
