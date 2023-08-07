@@ -1,0 +1,531 @@
+17:03:51.366 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:03:51.384 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:03:52.949 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:03:53.866 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:04:01.101 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:05:26.785 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Mon, 10 Jul 2023 11:35:24 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_173_DESKTOP_T9GRIS5_vd6CdaemonInstance. CPU usage: 96.63, memory usage: 88.93 Trace -- Error: Connect timed out.
+17:05:26.793 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Mon, 10 Jul 2023 11:35:24 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_173_DESKTOP_T9GRIS5_vd6CdaemonInstance. CPU usage: 96.63, memory usage: 88.93 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:10:06.204 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:10:06.204 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:10:07.052 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:10:07.330 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:10:15.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:10:57.828 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Mon, 10 Jul 2023 11:40:56 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_1710_DESKTOP_T9GRIS5_1nTgdaemonInstance. CPU usage: 83.5, memory usage: 87.91 Trace -- Error: Connect timed out.
+17:10:57.828 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Mon, 10 Jul 2023 11:40:56 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_1710_DESKTOP_T9GRIS5_1nTgdaemonInstance. CPU usage: 83.5, memory usage: 87.91 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:42:59.556 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:42:59.630 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:43:00.934 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:43:01.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:43:07.994 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:44:10.506 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Mon, 10 Jul 2023 12:14:08 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_1743_DESKTOP_T9GRIS5_4a7WdaemonInstance. CPU usage: 34.09, memory usage: 89.87 Trace -- Error: Connect timed out.
+17:44:10.506 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Mon, 10 Jul 2023 12:14:08 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\10_Jul_1743_DESKTOP_T9GRIS5_4a7WdaemonInstance. CPU usage: 34.09, memory usage: 89.87 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:14:58.952 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+15:14:58.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:14:59.469 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+15:14:59.609 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:15:00.718 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:15:10.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:16:19.024 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Disconnected.
+15:16:19.024 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed Disconnected.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:10:34.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:10:34.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:10:35.335 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:10:35.520 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:10:35.974 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:10:42.466 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:11:26.547 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Disconnected.
+17:11:26.547 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed Disconnected.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:25:05.574 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:25:05.590 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:25:06.060 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:25:06.191 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:25:06.398 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:25:11.157 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:26:49.788 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Disconnected.
+17:26:49.788 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed Disconnected.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:34:51.061 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:34:51.069 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:34:51.545 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:34:51.677 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:34:51.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:34:56.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:35:58.517 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Sun, 16 Jul 2023 12:05:56 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_1734_DESKTOP_T9GRIS5_IBQddaemonInstance. CPU usage: 46.04, memory usage: 93.26 Trace -- Error: Connect timed out.
+17:35:58.517 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Sun, 16 Jul 2023 12:05:56 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_1734_DESKTOP_T9GRIS5_IBQddaemonInstance. CPU usage: 46.04, memory usage: 93.26 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:42:37.067 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:42:37.082 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:42:37.653 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:42:37.806 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:42:38.038 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:42:42.401 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:43:19.054 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:43:22.763 [bappaTest@2] ERROR c.b.DriverServiceTransformer - Unable to create executor - javassist.CannotCompileException: [source error] no such field: executor
+	at javassist.CtBehavior.a(Unknown Source)
+	at javassist.CtBehavior.insertBefore(Unknown Source)
+	at com.browserstack.DriverServiceTransformer.a(Unknown Source)
+	at com.browserstack.DriverServiceTransformer.transform(Unknown Source)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:246)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:563)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1016)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:800)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:698)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:621)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:579)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at rahulshettyacademy.seleniumframeworkdesign.BappaTest.bappaTest(BappaTest.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.a(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(Unknown Source)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.a(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(Unknown Source)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(Unknown Source)
+	at org.testng.internal.invokers.TestMethodWorker.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: compile error: no such field: executor
+	at javassist.compiler.TypeChecker.fieldAccess(Unknown Source)
+	at javassist.compiler.TypeChecker.atFieldAssign(Unknown Source)
+	at javassist.compiler.JvstTypeChecker.atFieldAssign(Unknown Source)
+	at javassist.compiler.TypeChecker.atAssignExpr(Unknown Source)
+	at javassist.compiler.ast.AssignExpr.accept(Unknown Source)
+	at javassist.compiler.CodeGen.doTypeCheck(Unknown Source)
+	at javassist.compiler.CodeGen.atStmnt(Unknown Source)
+	at javassist.compiler.ast.Stmnt.accept(Unknown Source)
+	at javassist.compiler.CodeGen.atStmnt(Unknown Source)
+	at javassist.compiler.ast.Stmnt.accept(Unknown Source)
+	at javassist.compiler.MemberCodeGen.atTryStmnt(Unknown Source)
+	at javassist.compiler.CodeGen.atStmnt(Unknown Source)
+	at javassist.compiler.ast.Stmnt.accept(Unknown Source)
+	at javassist.compiler.Javac.compileStmnt(Unknown Source)
+	... 32 more
+
+17:43:22.825 [bappaTest@2] ERROR c.b.DriverServiceTransformer - Unable to intercept config capabilities - javassist.CannotCompileException: [source error] no such class: capabilities
+	at javassist.CtBehavior.a(Unknown Source)
+	at javassist.CtBehavior.insertBefore(Unknown Source)
+	at com.browserstack.DriverServiceTransformer.a(Unknown Source)
+	at com.browserstack.DriverServiceTransformer.transform(Unknown Source)
+	at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:246)
+	at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:563)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1016)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:800)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:698)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:621)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:579)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at rahulshettyacademy.seleniumframeworkdesign.BappaTest.bappaTest(BappaTest.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.a(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(Unknown Source)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.a(Unknown Source)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(Unknown Source)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(Unknown Source)
+	at org.testng.internal.invokers.TestMethodWorker.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: compile error: no such class: capabilities
+	at javassist.compiler.MemberResolver.a(Unknown Source)
+	at javassist.compiler.MemberResolver.lookupClass(Unknown Source)
+	at javassist.compiler.MemberResolver.lookupClassByJvmName(Unknown Source)
+	at javassist.compiler.TypeChecker.atCallExpr(Unknown Source)
+	at javassist.compiler.JvstTypeChecker.atCallExpr(Unknown Source)
+	at javassist.compiler.ast.CallExpr.accept(Unknown Source)
+	at javassist.compiler.TypeChecker.atCallExpr(Unknown Source)
+	at javassist.compiler.JvstTypeChecker.atCallExpr(Unknown Source)
+	at javassist.compiler.ast.CallExpr.accept(Unknown Source)
+	at javassist.compiler.CodeGen.doTypeCheck(Unknown Source)
+	at javassist.compiler.CodeGen.compileBooleanExpr(Unknown Source)
+	at javassist.compiler.CodeGen.atStmnt(Unknown Source)
+	at javassist.compiler.ast.Stmnt.accept(Unknown Source)
+	at javassist.compiler.Javac.compileStmnt(Unknown Source)
+	... 32 more
+
+17:43:22.825 [bappaTest@2] ERROR c.b.DriverServiceTransformer - Capabilities Inserted : org.openqa.selenium.MutableCapabilities browserstackDesiredCapabilities = new org.openqa.selenium.MutableCapabilities();
+java.util.HashMap/*<String,Object>*/ seleniumCapsMap = new java.util.HashMap/*<String,Object>*/();
+    seleniumCapsMap.put("userName", "sandhya_U0PJRo");
+    seleniumCapsMap.put("accessKey", "noUAqpRyKPNZESBq2Wh5");
+        seleniumCapsMap.put("buildIdentifier", "8");
+    seleniumCapsMap.put("local", "true");
+    seleniumCapsMap.put("localIdentifier", "16_Jul_1742_DESKTOP_T9GRIS5_YwWT");
+    seleniumCapsMap.put("browserstackSDK", "testng-javaagent/1.8.5");
+    seleniumCapsMap.put("buildName", "bstack-demo");
+    seleniumCapsMap.put("hostName", "DESKTOP-T9GRIS5");
+    seleniumCapsMap.put("source", "testng:eclipse:v1.0.3");
+    seleniumCapsMap.put("consoleLogs", "info");
+    seleniumCapsMap.put("projectName", "BrowserStack Sample");
+    seleniumCapsMap.put("networkLogs", "true");
+    java.lang.String threadName = Thread.currentThread().getName();
+    java.lang.String [] threadSplit = threadName.split("[@]");
+    java.lang.String sessionCount = threadSplit[threadSplit.length -1];
+    java.lang.String sessionName = Thread.currentThread().getName();
+    java.lang.Integer platformCount = java.lang.Integer.valueOf(0); 
+    if(sessionName.equals(String.valueOf(sessionCount))) { 
+        System.setProperty(sessionName, String.valueOf(platformCount)); }
+    else { 
+        System.setProperty(sessionName, sessionCount); }
+    if(System.getProperty(sessionName).equals(String.valueOf(platformCount))) { 
+        seleniumCapsMap.put("os", "Windows");
+        seleniumCapsMap.put("osVersion", "11");
+        seleniumCapsMap.put("browserName", "Chrome");
+        seleniumCapsMap.put("browser", "Chrome");
+        seleniumCapsMap.put("browserVersion", "103.0");
+    } 
+    platformCount = Integer.valueOf(platformCount.intValue() + 1); 
+    if(System.getProperty(sessionName).equals(String.valueOf(platformCount))) { 
+        seleniumCapsMap.put("os", "Windows");
+        seleniumCapsMap.put("osVersion", "10");
+        seleniumCapsMap.put("browserName", "Firefox");
+        seleniumCapsMap.put("browser", "Firefox");
+        seleniumCapsMap.put("browserVersion", "102.0");
+    } 
+    platformCount = Integer.valueOf(platformCount.intValue() + 1); 
+    if(System.getProperty(sessionName).equals(String.valueOf(platformCount))) { 
+        seleniumCapsMap.put("os", "OS X");
+        seleniumCapsMap.put("osVersion", "Big Sur");
+        seleniumCapsMap.put("browserName", "Edge");
+        seleniumCapsMap.put("browser", "Edge");
+        seleniumCapsMap.put("browserVersion", "latest");
+    } 
+    platformCount = Integer.valueOf(platformCount.intValue() + 1); 
+    browserstackDesiredCapabilities.setCapability("browserName", seleniumCapsMap.get("browserName"));
+    browserstackDesiredCapabilities.setCapability("browserVersion", seleniumCapsMap.get("browserVersion"));
+    if (capabilities.asMap().containsKey("bstack:options")) {
+        java.util.HashMap/*<String,Object>*/ capabilitiesObject = (java.util.HashMap/*<String,Object>*/) capabilities.getCapability("bstack:options");
+        capabilitiesObject.putAll(seleniumCapsMap);
+        browserstackDesiredCapabilities.setCapability("bstack:options", capabilitiesObject);
+    } else {
+        browserstackDesiredCapabilities.setCapability("bstack:options", seleniumCapsMap); }
+    org.openqa.selenium.MutableCapabilities mutableCapabilities = new org.openqa.selenium.MutableCapabilities(capabilities);
+    try { 
+        if (capabilities.getCapability("moz:debuggerAddress") != null && browserstackDesiredCapabilities.getCapability("browserName") != null){ 
+            String browserName = java.lang.String.valueOf(browserstackDesiredCapabilities.getCapability("browserName")); 
+            if (!browserName.equalsIgnoreCase("firefox")){ 
+ mutableCapabilities.setCapability("moz:debuggerAddress", (String) null); } 
+        } 
+    } catch (Throwable e) {} 
+    capabilities = mutableCapabilities.merge(browserstackDesiredCapabilities);
+ 
+17:43:22.938 [bappaTest@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] no such field: sessionId
+17:43:23.223 [bappaTest@0] ERROR c.b.DriverServiceTransformer - Error in patching execute method: - javassist.CannotCompileException: [source error] no such class: command
+17:43:23.223 [bappaTest@0] ERROR c.b.DriverServiceTransformer - [source error] no such field: addressOfRemoteServer
+17:43:26.418 [copyScreenshotsIntoWord@2] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ehx5ce6vi7oy0raniwgkcph2grnas6cwlul56tww to view build report, insights, and many more debugging information all at one place!
+
+17:43:34.646 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:47:58.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:47:58.255 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:47:58.906 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:47:59.041 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:47:59.257 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:48:06.092 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:50:04.495 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Sun, 16 Jul 2023 12:20:02 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_1747_DESKTOP_T9GRIS5_HofbdaemonInstance. CPU usage: 29.26, memory usage: 92.24 Trace -- Error: Connect timed out.
+17:50:04.511 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Sun, 16 Jul 2023 12:20:02 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_1747_DESKTOP_T9GRIS5_HofbdaemonInstance. CPU usage: 29.26, memory usage: 92.24 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+18:24:55.116 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+18:24:55.116 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:24:55.649 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+18:24:55.780 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:24:56.050 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:25:00.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:25:42.292 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:25:50.520 [copyScreenshotsIntoWord@2] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/o6xiy9ph9y8kvpru5bowafyaasw78iwyr2lxbmmu to view build report, insights, and many more debugging information all at one place!
+
+18:25:58.425 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:41:23.803 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+18:41:23.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:41:24.248 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+18:41:24.371 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:41:24.498 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:41:28.965 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:41:52.729 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:41:59.315 [copyScreenshotsIntoWord@2] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/tsfc2nhxoefsbzecovg3d4r5nddotvf7wdxh0bod to view build report, insights, and many more debugging information all at one place!
+
+18:42:08.050 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:49:45.326 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+18:49:45.333 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:49:45.942 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+18:49:46.081 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:49:46.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:49:50.569 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:50:13.818 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:50:20.449 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pfbtob3bk33vbwofpca7w1uxhwhlaibavxxwxuff to view build report, insights, and many more debugging information all at one place!
+
+18:50:27.694 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:55:17.499 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+18:55:17.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:55:18.059 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+18:55:18.205 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:55:18.476 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:55:24.279 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:55:45.900 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:55:52.714 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/exzyr54aobjth9ihkzgkudc6szugtprkal65qhwv to view build report, insights, and many more debugging information all at one place!
+
+18:56:00.842 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:16:24.454 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+19:16:24.454 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:16:25.003 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+19:16:25.190 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:16:25.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:16:30.704 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:17:53.850 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:18:01.167 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/v02mg3jkqsd4uulqc7fogggvyx3qvpvnuslgmqyj to view build report, insights, and many more debugging information all at one place!
+
+19:18:11.798 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:21:44.421 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+19:21:44.442 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:21:45.028 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+19:21:45.160 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:21:45.344 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:21:49.675 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:22:21.026 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:22:28.563 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hzna5vffigrw1uyq2j4hjbvli0akovxkehndbfgr to view build report, insights, and many more debugging information all at one place!
+
+19:22:38.091 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+20:03:48.884 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+20:03:48.884 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+20:03:49.501 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+20:03:49.648 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:03:50.048 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+20:03:54.929 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+20:04:54.990 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Sun, 16 Jul 2023 14:34:53 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_203_DESKTOP_T9GRIS5_KuiOdaemonInstance. CPU usage: 32.2, memory usage: 92.5 Trace -- Error: Connect timed out.
+20:04:55.005 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Sun, 16 Jul 2023 14:34:53 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_203_DESKTOP_T9GRIS5_KuiOdaemonInstance. CPU usage: 32.2, memory usage: 92.5 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+21:32:21.051 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+21:32:21.058 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+21:32:21.619 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+21:32:21.756 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:32:22.119 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+21:32:27.124 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+21:33:39.272 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Sun, 16 Jul 2023 16:03:34 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_2132_DESKTOP_T9GRIS5_2N86daemonInstance. CPU usage: 13.16, memory usage: 90.37 Trace -- Error: Connect timed out.
+21:33:39.277 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Sun, 16 Jul 2023 16:03:34 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\16_Jul_2132_DESKTOP_T9GRIS5_2N86daemonInstance. CPU usage: 13.16, memory usage: 90.37 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+22:00:47.808 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:12:15.372 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:12:15.372 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:12:15.851 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:12:16.020 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:12:16.290 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:12:23.547 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:13:11.758 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Mon, 17 Jul 2023 11:43:09 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\17_Jul_1712_DESKTOP_T9GRIS5_hcvrdaemonInstance. CPU usage: 42.79, memory usage: 92.57 Trace -- Error: Connect timed out.
+17:13:11.758 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Mon, 17 Jul 2023 11:43:09 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\17_Jul_1712_DESKTOP_T9GRIS5_hcvrdaemonInstance. CPU usage: 42.79, memory usage: 92.57 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:23:23.007 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+17:23:23.014 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:23:23.533 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+17:23:23.655 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:23:23.786 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:23:29.212 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:24:16.689 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: [Mon, 17 Jul 2023 11:54:13 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\17_Jul_1723_DESKTOP_T9GRIS5_58QDdaemonInstance. CPU usage: 28.08, memory usage: 92.68 Trace -- Error: Connect timed out.
+17:24:16.689 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed [Mon, 17 Jul 2023 11:54:13 GMT] Failed to connect to BrowserStackLocal pipe \\.\pipe\browserstack\17_Jul_1723_DESKTOP_T9GRIS5_58QDdaemonInstance. CPU usage: 28.08, memory usage: 92.68 Trace -- Error: Connect timed out.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+10:52:06.655 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+10:52:06.671 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:52:07.200 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+10:52:07.388 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:52:07.856 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:52:08.809 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:52:47.593 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Could not connect to local.browserstack.com due to Network issues. Please check your internet connection or if you are behind proxy please use our proxy options. For more details https://www.browserstack.com/local-testing#modifiers.
+10:52:47.608 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed Could not connect to local.browserstack.com due to Network issues. Please check your internet connection or if you are behind proxy please use our proxy options. For more details https://www.browserstack.com/local-testing#modifiers.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+10:54:07.905 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+10:54:07.920 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:54:08.561 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+10:54:08.748 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:54:08.904 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:54:14.415 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:54:58.097 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:55:06.075 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/peayzg3cw48fgma7y3mnvr4jmxwxi5wqrkevb6qc to view build report, insights, and many more debugging information all at one place!
+
+10:55:16.507 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:57:12.724 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.7.2
+10:57:12.724 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:57:13.333 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Admin\eclipse-workspace\seleniumframeworkdesign\browserstack.yml
+10:57:13.489 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:57:13.599 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:57:18.565 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:57:36.773 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:57:48.486 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nyfn3yjuujnuim1hyu15nhxqtnknhtksymkaon1z to view build report, insights, and many more debugging information all at one place!
+
+10:57:55.533 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:21:25.288 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+18:21:25.304 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:21:25.567 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:21:44.109 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+18:21:44.109 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:21:44.434 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:22:06.855 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+18:22:06.855 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:22:07.063 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:22:29.028 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+18:22:29.028 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:22:29.255 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:22:55.825 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+18:22:55.825 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:22:56.124 [main] INFO  c.b.config.BrowserStackConfig - INFO

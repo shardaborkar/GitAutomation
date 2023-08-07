@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.seleniumframeworkdesign.ErrorValidationTest">
+        <methods>
+          <include name="launchApp"/>
+          <include name="tearDown"/>
+          <include name="incorrectCredentials" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.ErrorValidationTest -->
+      <class name="rahulshettyacademy.seleniumframeworkdesign.BappaTest">
+        <methods>
+          <include name="bappaTest"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.BappaTest -->
+      <class name="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest">
+        <methods>
+          <include name="launchApp"/>
+          <include name="tearDown"/>
+          <include name="submitorder"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

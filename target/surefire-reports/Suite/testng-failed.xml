@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="rahulshettyacademy.testcomponent.Listener"/>
+  </listeners>
+  <test thread-count="5" name="Error validation Test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest">
+        <methods>
+          <include name="launchApp"/>
+          <include name="tearDown"/>
+          <include name="copyScreenshotsIntoWord"/>
+          <include name="submitorder"/>
+          <include name="cartValidation"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.SubmitOrderTest -->
+      <class name="rahulshettyacademy.seleniumframeworkdesign.ErrorValidationTest">
+        <methods>
+          <include name="launchApp"/>
+          <include name="tearDown"/>
+          <include name="copyScreenshotsIntoWord"/>
+          <include name="incorrectCredentials"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.seleniumframeworkdesign.ErrorValidationTest -->
+    </classes>
+  </test> <!-- Error validation Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
