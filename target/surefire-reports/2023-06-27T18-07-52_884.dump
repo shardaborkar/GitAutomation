@@ -1,0 +1,38 @@
+# Created at 2023-06-27T18:11:05.069
+When writing xml report stdout/stderr
+org.apache.maven.surefire.api.report.ReporterException: When writing xml report stdout/stderr
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.addOutputStreamElement(StatelessXmlReporter.java:508)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.createOutErrElements(StatelessXmlReporter.java:483)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.serializeTestClassWithoutRerun(StatelessXmlReporter.java:228)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.serializeTestClass(StatelessXmlReporter.java:213)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.testSetCompleted(StatelessXmlReporter.java:152)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.testSetCompleted(StatelessXmlReporter.java:51)
+	at org.apache.maven.plugin.surefire.report.TestSetRunListener.testSetCompleted(TestSetRunListener.java:193)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$TestSetCompletedListener.handle(ForkClient.java:139)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$TestSetCompletedListener.handle(ForkClient.java:128)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkedProcessEventNotifier.notifyEvent(ForkedProcessEventNotifier.java:232)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.handleEvent(ForkClient.java:361)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.handleEvent(ForkClient.java:57)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:91)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	Suppressed: java.io.IOException: There is not enough space on the disk
+		at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+		at java.base/java.io.FileOutputStream.write(FileOutputStream.java:354)
+		at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+		at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+		at java.base/java.io.FilterOutputStream.close(FilterOutputStream.java:182)
+		at java.base/sun.nio.cs.StreamEncoder.implClose(StreamEncoder.java:341)
+		at java.base/sun.nio.cs.StreamEncoder.close(StreamEncoder.java:161)
+		at java.base/java.io.OutputStreamWriter.close(OutputStreamWriter.java:255)
+		at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.testSetCompleted(StatelessXmlReporter.java:157)
+		... 9 more
+Caused by: java.io.IOException: There is not enough space on the disk
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:354)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at java.base/java.io.FilterOutputStream.flush(FilterOutputStream.java:153)
+	at org.apache.maven.plugin.surefire.report.StatelessXmlReporter.addOutputStreamElement(StatelessXmlReporter.java:504)
+	... 13 more
+
+
