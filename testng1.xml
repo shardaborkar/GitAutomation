@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+
+<listeners>
+<listener class-name="airportTDD.flightBookingTDD.testcomponent.Listener"/>
+
+</listeners>
+<test thread-count="3" name="Error validation Test">
+    <classes>
+      <class name="airportTDD.flightBookingTDD.tests.ErrorMessageTest"/>
+   <class name="airportTDD.flightBookingTDD.tests.HolidayPackageTest"/>
+       <class name="airportTDD.flightBookingTDD.tests.SearchFlightTest1"/>
+       <class name="airportTDD.flightBookingTDD.tests.TopSectionTest"/>
+       <class name="airportTDD.flightBookingTDD.tests.BottomSectionTest"/>
+      </classes>  
+  </test>
+  
+</suite>
