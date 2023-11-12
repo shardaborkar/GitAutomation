@@ -1,0 +1,16 @@
+userName: shardaborkar_yCWD5a
+accessKey: 5adnQ2zz5R8pzRdxzoDA
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 8.1
+    browserName: Chrome
+    browserVersion: 109.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Edge
+    browserVersion: 107.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6

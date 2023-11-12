@@ -1,0 +1,605 @@
+16:59:08.576 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:59:08.659 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+16:59:08.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:59:15.836 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:59:17.371 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+16:59:17.371 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:14:17.975 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:14:18.302 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:14:18.302 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:14:22.096 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:26.177 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:14:26.179 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:16:03.781 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:16:03.846 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:16:03.847 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:16:07.483 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:09.809 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:16:09.809 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:17:20.760 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:17:20.876 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:17:20.877 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:17:24.883 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:28.838 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:17:28.839 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:19:40.028 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:19:40.075 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:19:40.076 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:19:44.622 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:19:48.379 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:19:48.380 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:23:17.670 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:23:17.710 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:23:17.711 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:23:21.534 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:23:24.736 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:23:24.736 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:32:38.868 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:32:38.928 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:32:38.928 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:32:42.352 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:32:44.915 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:32:44.916 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:36:59.627 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:36:59.675 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:36:59.677 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:37:03.140 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:37:05.023 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:37:05.023 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+14:11:44.196 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:11:44.296 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+14:11:44.296 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:11:49.415 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:14:39.174 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+14:14:39.174 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+14:29:44.887 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:29:44.971 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+14:29:44.971 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:29:58.838 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:30:53.016 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+14:30:53.017 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:09:58.269 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:09:58.302 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:09:58.302 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:10:03.305 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:10:32.822 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:10:32.822 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:20:49.430 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:20:49.461 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:20:49.461 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:20:53.962 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:21:29.361 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:21:29.361 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:22:56.226 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:22:56.451 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:22:56.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:23:01.204 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:24:10.249 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:24:10.251 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:25:32.901 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:25:33.027 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:25:33.030 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:25:37.800 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:26:54.203 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:26:54.203 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:29:35.385 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:29:35.438 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:29:35.438 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:29:40.028 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:32:31.026 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:32:31.026 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:40:58.669 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:40:58.700 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:40:58.700 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:41:03.391 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:42:01.172 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:42:01.172 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:44:33.562 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:44:33.592 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:44:33.592 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:44:37.885 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:45:15.584 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:45:15.584 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:52:37.551 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:52:37.573 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:52:37.573 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:52:42.315 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:53:28.074 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:53:28.074 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:54:52.161 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:54:52.176 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:54:52.176 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:54:56.982 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:55:32.119 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:55:32.119 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:58:46.673 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:58:46.722 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:58:46.722 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:58:51.168 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:59:18.681 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:59:18.681 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:01:06.702 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:01:06.732 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:01:06.732 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:01:11.422 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:49.557 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:01:49.557 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:04:02.434 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:04:02.452 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:04:02.452 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:04:06.525 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:04:41.432 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:04:41.442 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:07:55.048 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:55.064 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:07:55.064 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:07:59.381 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:08:27.023 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:08:27.023 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:12:54.035 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:12:54.120 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:12:54.120 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:12:59.198 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:26.688 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:13:26.688 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:14:09.189 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:14:09.221 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:14:09.221 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:14:13.751 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:15:08.194 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:15:08.194 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:37:22.458 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:37:22.539 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:37:22.539 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:37:27.904 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:37:37.749 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:37:37.749 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:39:26.440 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:39:26.490 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:39:26.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:39:31.680 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:39:41.882 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:39:41.882 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:53:53.684 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:53:53.716 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:53:53.716 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:53:58.830 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:54:00.888 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:54:00.896 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:55:51.663 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:55:51.703 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:55:51.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:55:56.918 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:55:59.262 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:55:59.262 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:59:05.646 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:59:05.677 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:59:05.677 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:59:10.258 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:59:19.732 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:59:19.732 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:01:18.652 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:01:18.683 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:01:18.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:01:23.593 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:48.923 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:48.923 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:49.103 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:50.118 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:50.118 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:50.118 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:56.642 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:01:56.642 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:07:22.225 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:22.278 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:07:22.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:07:27.402 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:30.499 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:30.601 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:30.679 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:31.359 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:31.398 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:31.430 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:38.657 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:07:38.657 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:10:54.988 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:10:55.031 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:10:55.031 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:11:01.033 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:03.819 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:03.838 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:03.840 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:04.133 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:04.154 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:04.164 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:11:12.060 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:11:12.060 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:13:23.918 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:13:23.945 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:13:23.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:13:29.167 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:31.966 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:31.976 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:31.986 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:32.199 [checkbox@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:32.259 [checkbox@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:32.380 [checkbox@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:13:40.506 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:13:40.506 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:28:11.280 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:28:11.432 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.303 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.321 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.331 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.331 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.331 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.331 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.341 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.373 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.442 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:00.576 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:02.512 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:30:02.586 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:25.441 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:33.925 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:40.784 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:40.787 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:41.181 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:41.199 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:31:41.250 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:37:09.006 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:37:09.165 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:14.421 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:46:14.500 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:51:56.384 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:51:56.931 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:03:20.673 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:03:21.233 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:22:02.894 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:22:03.427 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:00:41.209 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:00:41.303 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:12:46.061 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:12:46.168 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:16:32.215 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:16:32.335 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:21:40.846 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:21:40.862 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:21:40.862 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:21:45.541 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:21:51.525 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:21:51.525 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:26:17.052 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:26:17.067 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:26:17.067 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:26:21.343 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:26:26.901 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:26:26.901 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:29:08.852 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:29:08.883 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:29:08.883 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:29:13.295 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:29:18.996 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:29:18.996 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:51:45.341 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:51:45.374 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:51:45.374 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:51:50.259 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:51:56.176 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:51:56.176 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:02:31.327 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:02:31.445 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:02:31.445 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:02:36.360 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:02:43.076 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:02:43.076 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:47:21.274 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:47:21.306 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:47:21.306 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:47:26.066 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:47:27.423 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:47:27.426 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:48:59.246 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:48:59.266 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:48:59.266 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:49:04.082 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:49:05.463 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:49:05.463 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:05:01.398 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:05:01.589 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:10:42.077 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:10:42.410 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:23:30.266 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:23:30.410 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:43:40.171 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:43:40.533 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:56:16.654 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:56:17.616 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.385 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.385 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.428 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.485 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:23.570 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:47.845 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:48.948 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:51.902 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:55.930 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:56.677 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:56.677 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:56.692 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:56.761 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:31:57.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.030 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.062 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.062 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.062 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.062 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.068 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.068 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.068 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.068 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.084 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.099 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.099 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.099 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.099 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.099 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.115 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:09.221 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:10.416 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:10.507 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:59.232 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:36:59.534 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:08.952 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:08.956 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:10.262 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:10.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:15.985 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.165 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.174 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.184 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.200 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.200 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.200 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.200 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.215 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.278 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:40.477 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:41.842 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:41.921 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:17.315 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.913 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:20.752 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:20.752 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:22.156 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:22.240 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:22.256 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:19.780 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:21.436 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:07:20.233 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:07:20.412 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:55.514 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:55.603 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:18:21.620 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:18:21.874 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:47:30.405 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:47:30.845 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:50:25.294 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:50:25.581 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:52:17.934 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:52:18.038 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:54:08.332 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:54:08.681 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:49:00.705 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:49:01.261 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:53:00.390 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:53:00.486 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:31.545 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:31.604 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:45:29.368 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:45:29.437 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:41.805 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:41.943 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:50:29.438 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:50:29.541 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:59:36.819 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:59:36.900 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:01:12.925 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:01:13.045 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:35:29.666 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:35:29.984 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:35:37.747 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:35:40.195 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:35:41.059 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:38.544 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:39.143 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:39.659 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:43.658 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:43.726 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:54:27.148 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:54:27.622 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:06:53.001 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:06:53.163 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:59:22.443 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:59:22.728 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:35:46.729 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:35:46.827 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:35:48.361 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:35:50.958 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:35:51.534 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:39:06.477 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:39:06.739 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:41:32.117 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:41:32.278 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:00:32.220 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:00:32.496 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:08:44.763 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:08:44.877 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:54.247 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:55.039 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:50:32.548 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:50:32.700 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:32:04.767 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:32:04.902 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:35:09.742 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:35:09.851 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:41:33.620 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:41:33.752 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:05:31.859 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:05:32.035 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:07:05.242 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:07:05.354 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:09:02.844 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:09:02.916 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:10:42.758 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:10:42.879 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:13:39.961 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:13:40.088 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:19.089 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:25:19.188 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:28:49.257 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:28:49.356 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:31:58.003 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:31:58.147 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:03:23.094 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:03:23.476 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:08:15.168 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:08:15.300 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:12:41.993 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:12:42.094 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:14:20.882 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:14:20.995 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:58:42.145 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:58:42.323 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:58:30.582 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:58:30.893 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:00:56.598 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:00:56.664 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:30:35.687 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:30:35.754 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:32:23.173 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:32:23.235 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:52:12.811 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:52:12.882 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:52:55.660 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:52:55.867 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:56:43.322 [main] INFO  c.b.config.BrowserStackConfig - INFO
+14:56:43.422 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:02:05.236 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:02:05.429 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.391 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.484 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:56:18.131 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:56:18.200 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:37:38.227 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:37:38.315 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:47:19.070 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:47:19.210 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:07:24.079 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:07:24.264 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:10:26.425 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:10:27.083 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:15:23.241 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:16:48.530 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:21:23.305 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:21:23.395 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:23:07.612 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:23:07.788 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:25:29.137 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:25:29.198 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:30:24.150 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:30:24.234 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:31:34.430 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:31:34.542 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:17:30.646 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:17:30.734 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:18:38.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:18:38.519 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:35.584 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:35.685 [main] INFO  c.b.config.BrowserStackConfig - INFO
